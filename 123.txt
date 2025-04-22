@@ -1,0 +1,5 @@
+t
+
+
+
+hi this is my git first file from aws
